@@ -215,7 +215,7 @@ Version:1.0
 	padding: 10px 20px;
 }
 .small-banner {
-	padding: 18px 0;	
+	padding: 18px 0;
 }
 .small-banner .single-banner.tab-height{
 	height:300px;
@@ -390,6 +390,7 @@ Version:1.0
 }
 .right-contentmb{
 	float:right;
+    padding-top: 10px;
 }
 .list-mainmb li {
 	display: inline-block;
@@ -629,7 +630,7 @@ Version:1.0
 	display: none;
 }
 .header .header-inner{
-	display:none 
+	display:none
 }
 .hero-slider {
 	height: 350px;
@@ -746,7 +747,7 @@ Version:1.0
 }
 .small-banner {
 	padding: 18px 0;
-	
+
 }
 .small-banner .single-banner{
 	margin-bottom: 18px;
@@ -1361,7 +1362,7 @@ Version:1.0
 	display: none;
 }
 .header .header-inner{
-	display:none 
+	display:none
 }
 .header.shop .nav li .new {
 	display:none !important;
@@ -1404,7 +1405,7 @@ Version:1.0
 }
 .small-banner {
 	padding: 18px 0;
-	
+
 }
 .small-banner .single-banner{
 	margin-bottom: 18px;
