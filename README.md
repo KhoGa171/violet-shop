@@ -8,7 +8,6 @@
 # Admin:
 1. email: admin@gmail.com
 2. pass: 1111
-1111
 # User:
 1. email: user@gmail.com
 2. pass: 1111
