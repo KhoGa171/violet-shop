@@ -6,8 +6,9 @@
 4. php artisan serve
 # Account
 # Admin:
-admin@gmail.com
+1. email: admin@gmail.com
+2. pass: 1111
 1111
 # User:
-user@gmail.com
-1111
+1. email: user@gmail.com
+2. pass: 1111
